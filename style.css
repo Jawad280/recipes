@@ -1,12 +1,21 @@
 .mainList {
     color: darkcyan;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;    
     font-weight: bold;
-    font-size: 35px;
 }
 
 .mainList .item {
     color: coral;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+}
+
+#welcome {
+    color: rgb(38, 28, 111);
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.intro {
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
